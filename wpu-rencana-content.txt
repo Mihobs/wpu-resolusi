@@ -1,12 +1,11 @@
 RENCANA KONTEN WPU
 
-- Javascript
-  * Frameworks Javascript
-    ^ Vue
+
+- Konfigurasi jaringan
 - Praktek service
    ^ Hp & Laptop/PC
 - PHP Frameworks
-   ^ Laravel
+  ^ Laravel
 - Interview
 - Vlogs
 - Workout
