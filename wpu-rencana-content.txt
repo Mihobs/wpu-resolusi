@@ -2,7 +2,11 @@ RENCANA KONTEN WPU
 
 - Javascript
   * Frameworks Javascript
+    ^ Vue
 - Praktek service
+   ^ Hp & Laptop/PC
 - PHP Frameworks
+   ^ Laravel
 - Interview
 - Vlogs
+- Workout
