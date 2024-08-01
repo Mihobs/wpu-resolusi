@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   * Frameworks Javascript
     ^ Vue
 - Praktek service
+   ^ Hp & Laptop/PC
 - PHP Frameworks
    ^ Laravel
 - Interview
