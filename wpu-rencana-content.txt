@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
   * Frameworks Javascript
+- Praktek service
 - PHP Frameworks
 - Interview
 - Vlogs
