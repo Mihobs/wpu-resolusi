@@ -1,8 +1,8 @@
 RENCANA KONTEN WPU
 
-- Javascript
-  * Frameworks Javascript
+- Konfigurasi jaringan
 - Praktek service
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
