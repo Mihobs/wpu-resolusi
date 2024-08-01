@@ -1,8 +1,11 @@
 RENCANA KONTEN WPU
 
+
 - Konfigurasi jaringan
 - Praktek service
+   ^ Hp & Laptop/PC
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlogs
+- Workout
